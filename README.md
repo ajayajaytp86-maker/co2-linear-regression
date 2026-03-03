@@ -3,15 +3,15 @@
 
 This project builds a Machine Learning model to predict vehicle CO2 emissions using Linear Regression.
 
-The objective is to:
+# The objective is to:
 
-Analyze how engine and fuel-related factors influence emission levels
+1.Analyze how engine and fuel-related factors influence emission levels
 
-Build a predictive regression model
+2.Build a predictive regression model
 
-Evaluate model performance using standard metrics
+3.Evaluate model performance using standard metrics
 
-The project follows a complete machine learning workflow from data preprocessing to model evaluation.
+4.The project follows a complete machine learning workflow from data preprocessing to model evaluation.
 
 # Dataset
  Dataset Used
