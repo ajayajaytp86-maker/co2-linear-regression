@@ -1,5 +1,5 @@
-CO2 Emissions Prediction using Linear Regression
-1. Project Overview
+# CO2 Emissions Prediction using Linear Regression
+# Project Overview
 
 This project builds a Machine Learning model to predict vehicle CO2 emissions using Linear Regression.
 
@@ -13,12 +13,12 @@ Evaluate model performance using standard metrics
 
 The project follows a complete machine learning workflow from data preprocessing to model evaluation.
 
-2. Dataset
-2.1 Dataset Used
+# Dataset
+ Dataset Used
 
 CO2 Emissions Canada Dataset
 
-2.2 Dataset Description
+# Dataset Description
 
 The dataset contains:
 
@@ -28,8 +28,8 @@ Fuel consumption data
 
 CO2 emission values
 
-3. Selected Features
-3.1 Input Variables (Independent Variables)
+# Selected Features
+ Input Variables (Independent Variables)
 
 Engine Size (L)
 
@@ -37,11 +37,11 @@ Cylinders
 
 Fuel Consumption Comb (L/100 km)
 
-3.2 Target Variable (Dependent Variable)
+# Target Variable (Dependent Variable)
 
 CO2 Emissions (g/km)
 
-4. Project Workflow
+# Project Workflow
 
 The project follows these steps:
 
@@ -65,7 +65,7 @@ Mean Absolute Error (MAE)
 
 Visualization of Actual vs Predicted values
 
-5. Model Performance
+# Model Performance
 
 The model performance is evaluated using:
 
@@ -77,7 +77,7 @@ Mean Absolute Error (MAE)
 
 Measures the average prediction error
 
-6. Technologies Used
+# Technologies Used
 
 Python
 
@@ -87,7 +87,7 @@ Matplotlib
 
 Scikit-learn
 
-7. Key Learning Outcomes
+# Key Learning Outcomes
 
 Understanding regression modeling
 
@@ -99,7 +99,7 @@ Evaluating model performance
 
 Interpreting regression coefficients
 
-8. Conclusion
+# Conclusion
 
 The Linear Regression model demonstrates a strong relationship between fuel consumption and CO2 emissions.
 
